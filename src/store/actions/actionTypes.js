@@ -1,0 +1,3 @@
+export const DROPDOWNCLICK='DROPDOWNCLICK'
+export const SET_DATA='SET_DATA'
+export const FETCH_DATA_FAIL='FETCH_DATA_FAIL'

@@ -1,0 +1,55 @@
+{
+  "name": "reactcallcenterreports",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fusioncharts/core": "^1.0.2",
+    "@material-ui/core": "^4.7.2",
+    "@material-ui/styles": "^4.7.1",
+    "@syncfusion/ej2-react-dropdowns": "^17.3.34",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.4.1",
+    "chart.js": "^2.9.3",
+    "devextreme-react": "^19.2.4",
+    "fusioncharts": "^3.15.0-sr.1",
+    "highcharts": "^8.0.0",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-bootstrap-pagination": "^1.0.7",
+    "react-chartjs-2": "^2.8.0",
+    "react-d3-speedometer": "^0.8.0",
+    "react-dom": "^16.12.0",
+    "react-fusioncharts": "^3.0.1",
+    "react-js-pagination-router": "^1.0.1",
+    "react-redux": "^7.1.3",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-router-pagination": "^2.0.5",
+    "react-scripts": "3.2.0",
+    "reactstrap": "^8.2.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "run-script-os": "^1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
